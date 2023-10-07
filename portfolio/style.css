@@ -78,3 +78,12 @@ footer {
     height: 200px;
     width: 750px;
 }
+
+.tableproject{
+    background-color: yellow;
+    height: 200;
+    width: 750;
+    border-style: solid;
+    border-color: orange;
+    border-width: 10px; 
+}
