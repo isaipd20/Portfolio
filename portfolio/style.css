@@ -82,8 +82,26 @@ footer {
 .tableproject{
     background-color: yellow;
     height: 500px;
-    width: 500px;
+    width: 650px;
     border-style: solid;
-    border-color: orange;
+    border-color:darkorange;
     border-width: 30px; 
 }
+
+.element {
+    position: relative;
+    background: darkorange;
+    margin: 20px auto;
+    padding: 20px;
+    height: 500px;
+    width: 650px;
+  }
+
+  .element1 {
+    position: relative;
+    background: yellow;
+    margin: 20px auto;
+    padding: 20px;
+    height: 450px;
+    width: 575px;
+  }
