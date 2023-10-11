@@ -97,11 +97,20 @@ footer {
     width: 650px;
   }
 
-  .element1 {
+.element1 {
     position: relative;
     background: yellow;
     margin: 20px auto;
     padding: 20px;
     height: 450px;
     width: 575px;
-  }
+}
+
+.pdivider {
+    position: relative;
+    background: black;
+    margin: 10px auto;
+    padding: 10px;
+    height: 5px;
+    width: 500px;   
+}
