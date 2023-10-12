@@ -1,7 +1,8 @@
 .backcolor{
+    position: relative;
     background-color: darkblue; /* For browsers that do not support gradients */
     background-image: linear-gradient(darkblue, blueviolet);
-    height: 500px;
+    height: 700px;
 }
 
 .colorwhite{
@@ -113,4 +114,30 @@ footer {
     padding: 10px;
     height: 5px;
     width: 500px;   
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    width: 100%;
+    grid-gap: 4px;
+}
+
+.block {
+    position: relative;
+    background: darkorange;
+    margin: 20px auto;
+    padding: 20px;
+    height: 350px;
+    width: 450px;
+  }
+
+.block1 {
+    position: relative;
+    background: yellow;
+    margin: 20px auto;
+    padding: 20px;
+    height: 250px;
+    width: 400px;
 }
