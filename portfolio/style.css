@@ -74,7 +74,7 @@ footer {
 
 .aboutcolor{
     background-color:aqua; /* For browsers that do not support gradients */
-    background-image: linear-gradient(blue, aqua);
+    background-image: linear-gradient(blue, rgb(13, 226, 133));
     border-radius: 15%;
     height: 200px;
     width: 750px;
@@ -124,6 +124,14 @@ footer {
     grid-gap: 4px;
 }
 
+.grid2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    width: 85%;
+    grid-gap: 4px;
+}
+
 .block {
     position: relative;
     background: darkorange;
@@ -140,4 +148,36 @@ footer {
     padding: 20px;
     height: 250px;
     width: 400px;
+}
+
+.abouttable{
+    width: 75%;
+    border-spacing: 50px;
+}
+
+.aboutt1 {
+    position: relative;
+    background: yellow;
+    margin: 20px auto;
+    padding: 20px;
+    height: 250px;
+    width: 400px;   
+}
+
+.aboutt2 {
+    position: relative;
+    background: orange;
+    margin: 20px auto;
+    padding: 20px;
+    height: 200px;
+    width: 350px;
+}
+
+.aboutt3 {
+    position: relative;
+    background: rgb(219, 12, 105);
+    margin: 20px auto;
+    padding: 20px;
+    height: 150px;
+    width: 300px;
 }
