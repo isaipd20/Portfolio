@@ -134,8 +134,9 @@ footer {
     grid-gap: 4px;
 }
 
-.test {
+.tower1 {
     position: relative;
+    right: -150px;
     background: darkorange;
     /*margin: 20px auto;*/
     padding: 20px;
@@ -143,16 +144,18 @@ footer {
     width: 450px;
   }
 
-  .test3 {
-    position: relative;
-    background: rgb(30, 97, 156);
+  .tower2 {
+    position:relative;
+    top: 75px;
+    right: -680px;
+    background: darkorange;
     /*margin: 20px auto;*/
     padding: 20px;
-    height: 250px;
+    height: 450px;
     width: 450px;
   }
 
-  .test2 {
+  .base {
     position: relative;
     background: #040404;
     padding: 20px;
