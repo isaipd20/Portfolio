@@ -14,6 +14,8 @@
     border-style: solid;
     border-color: orange;
     border-width: 10px;
+    width: 450px;
+    height: 500px;
 }
 
 .button1{
@@ -131,6 +133,32 @@ footer {
     width: 85%;
     grid-gap: 4px;
 }
+
+.test {
+    position: relative;
+    background: darkorange;
+    /*margin: 20px auto;*/
+    padding: 20px;
+    height: 550px;
+    width: 450px;
+  }
+
+  .test3 {
+    position: relative;
+    background: rgb(30, 97, 156);
+    /*margin: 20px auto;*/
+    padding: 20px;
+    height: 250px;
+    width: 450px;
+  }
+
+  .test2 {
+    position: relative;
+    background: #040404;
+    padding: 20px;
+    height: 50px;
+    width: 97%;
+  }
 
 .block {
     position: relative;
