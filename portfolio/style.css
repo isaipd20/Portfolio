@@ -155,6 +155,38 @@ footer {
     width: 450px;
   }
 
+  .tower3 {
+    position:relative;
+    top: -250px;
+    right: -300px;
+    background: rgb(31, 135, 210);
+    /*margin: 20px auto;*/
+    padding: 20px;
+    height: 280px;
+    width: 450px;
+  }
+
+  .tower4 {
+    position:relative;
+    top: 160px;
+    right: -210px;
+    background: rgb(203, 26, 150);
+    /*margin: 20px auto;*/
+    padding: 20px;
+    height: 240px;
+    width: 380px;
+  }
+
+  .tower5 {
+    position:relative;
+    top: -400px;
+    background: rgb(163, 15, 15);
+    /*margin: 20px auto;*/
+    padding: 20px;
+    height: 140px;
+    width: 180px;
+  }
+
   .base {
     position: relative;
     background: #040404;
