@@ -9,6 +9,28 @@
     color:white;
 }
 
+.maincolor{
+    color: #040404;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.versioncolor{
+    background-color:rgb(54, 215, 54);
+    text-align: center;
+    text-decoration: none;
+    font-size: large;
+    color: white;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.maincolor2{
+    color: #040404;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .tablecolor{
     background-color: yellow;
     border-style: solid;
@@ -150,7 +172,7 @@ footer {
 
   .tower2 {
     position:relative;
-    top: 25px;
+    top: -125px;
     right: -680px;
     background: yellow;
     /*margin: 20px auto;*/
@@ -164,7 +186,7 @@ footer {
 
   .tower3 {
     position:relative;
-    top: -350px;
+    top: -450px;
     right: -300px;
     background: yellow;
     /*margin: 20px auto;*/
@@ -192,7 +214,7 @@ footer {
 
   .tower5 {
     position:relative;
-    top: -600px;
+    top: -700px;
     right: -120px;
     background: yellow;
     /*margin: 20px auto;*/
@@ -202,6 +224,14 @@ footer {
     padding: 20px;
     height: 140px;
     width: 300px;
+  }
+
+  .mainline {
+    position:relative;
+    background: darkorange;
+    /*margin: 20px auto;*/
+    height: 20px;
+    width: 405px;
   }
 
   .base {
