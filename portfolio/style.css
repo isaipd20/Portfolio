@@ -5,6 +5,13 @@
     height: 100%;
 }
 
+.star{
+    background-color: darkblue;
+    background-image: url(./images/back.png);
+    width: 100%;
+    background-size: 50%;
+}
+
 .colorwhite{
     color:white;
 }
@@ -294,4 +301,9 @@ footer {
     padding: 20px;
     height: 250px;
     width: 430px;
+}
+
+.spotlight {
+    height: 300px;
+    width: 300px;
 }
