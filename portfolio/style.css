@@ -393,3 +393,40 @@ footer {
     height: 5px;
     width: 200px;
   }
+
+.projectspotlight {
+    position: relative;
+    display: flex;
+    right: -490px;
+    height: 400px;
+    width: 300px;
+}
+
+.projectspotlight2 {
+    position: relative;
+    display: flex;
+    right: -420px;
+    height: 400px;
+    width: 300px;
+    transform: rotate(180deg);
+}
+
+.projectbase{
+    position: relative;
+    color:white;
+    background: rgb(0, 0, 0);
+    top: 375px;
+    right: 350px;
+    height: 45px;
+    width: 200px;
+}
+
+.projectbase2{
+    position: relative;
+    color: white;
+    background: rgb(0, 0, 0);
+    top: -20px;
+    right: 350px;
+    height: 45px;
+    width: 200px;
+}
