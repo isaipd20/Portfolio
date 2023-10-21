@@ -303,7 +303,41 @@ footer {
     width: 430px;
 }
 
+.test{
+    display: flex;
+}
+
 .spotlight {
+    position: relative;
+    display: flex;
+    right: -310px;
+    top: 70px;
     height: 300px;
     width: 300px;
 }
+
+.spotlight2 {
+    position: relative;
+    display: flex;
+    top: 120px;
+    right: -500px;
+    height: 300px;
+    width: 300px;
+    transform: rotate(180deg);
+}
+
+.spotlightbase{
+    position: relative;
+    background: rgb(133, 133, 132);
+    padding: 20px;
+    height: 10px;
+    width: 50px;
+  }
+
+  .spotlightbase2{
+    position: relative;
+    background: rgb(133, 133, 132);
+    padding: 20px;
+    height: 10px;
+    width: 50px;
+  }
