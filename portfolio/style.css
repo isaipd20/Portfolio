@@ -311,7 +311,7 @@ footer {
     position: relative;
     display: flex;
     right: -310px;
-    top: 70px;
+    top: 30px;
     height: 300px;
     width: 300px;
 }
@@ -319,8 +319,8 @@ footer {
 .spotlight2 {
     position: relative;
     display: flex;
-    top: 120px;
-    right: -500px;
+    top: 30px;
+    right: -600px;
     height: 300px;
     width: 300px;
     transform: rotate(180deg);
@@ -328,16 +328,61 @@ footer {
 
 .spotlightbase{
     position: relative;
-    background: rgb(133, 133, 132);
+    background: rgb(89, 89, 89);
+    top: 270px;
+    right: 300px;
     padding: 20px;
     height: 10px;
-    width: 50px;
+    width: 200px;
   }
 
   .spotlightbase2{
     position: relative;
-    background: rgb(133, 133, 132);
+    background: rgb(89, 89, 89);
+    right: 335px;
+    top: -85px;
+    padding: 20px;
+    height: 80px;
+    width: 80px;
+  }
+
+  .spotlightbasev{
+    position: relative;
+    background: rgb(0, 0, 0);
+    top: 280px;
+    right: 375px;
     padding: 20px;
     height: 10px;
-    width: 50px;
+    width: 200px;
+  }
+
+  .spotlightbase2v{
+    position: relative;
+    background: rgb(0, 0, 0);
+    top: -83px;
+    right: 447px;
+    padding: 20px;
+    height: 65px;
+    width: 200px;
+  }
+
+  .spotlightbase2v2{
+    position: relative;
+    color: rgb(86, 86, 86);
+    background: rgb(86, 86, 86);
+    top: -85px;
+    right: 587px;
+    padding: 20px;
+    height: 5px;
+    width: 200px;
+  }
+
+  .spotlightbase2v3{
+    position: relative;
+    background: rgb(6, 6, 6);
+    top: -95px;
+    right: 762px;
+    padding: 20px;
+    height: 5px;
+    width: 200px;
   }
