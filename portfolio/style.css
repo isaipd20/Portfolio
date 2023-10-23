@@ -430,3 +430,22 @@ footer {
     height: 45px;
     width: 200px;
 }
+
+.aboutpic {
+    position: relative;
+    height: 225px;
+    width: 225px;
+    border-radius: 35px;
+    top: -280px;
+}
+
+.aboutframe {
+    position: relative;
+    background-color:rgb(246, 6, 98); /* For browsers that do not support gradients */
+    background-image: linear-gradient(120deg, rgb(246, 6, 98), rgb(255, 176, 4));
+    transform: rotate(45deg);
+    right: -150px;
+    padding: 20px;
+    height: 300px;
+    width: 300px;
+}
