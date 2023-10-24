@@ -15,9 +15,7 @@ Portfolio is my personal website created from 0, where I will demonstrate my cre
 # 🕹 Usage
 Link: 
 
-- Design of webpage
-<br>
-Figma: [link]( https://www.figma.com/proto/lAEHoUop2LkepO2xhVPni6/Untitled?node-id=4-2&starting-point-node-id=4%3A2&mode=design&t=EEsbI59o81zeehsJ-1)
+Figma: [link](https://www.figma.com/proto/lAEHoUop2LkepO2xhVPni6/Untitled?node-id=4-2&starting-point-node-id=4%3A2&mode=design&t=EEsbI59o81zeehsJ-1)
 
 # 💎 Version
 - Currently Version 0.
