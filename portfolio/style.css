@@ -469,7 +469,7 @@ footer {
 .contactgrid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
     width: 100%;
     grid-gap: 10px;
 }
@@ -478,12 +478,15 @@ footer {
     position: relative;
     color: black;
     top: -110px;
-    font-size: larger;
+    font-size:x-large;
+}
+
+.contactposition{
+    position: relative;
+    top: -30px;
 }
 
 .contacttxt2 {
-    position: relative;
-    color: rgb(255, 255, 255);
-    top: -30px;
+    color: white;
     font-size: larger;
 }
