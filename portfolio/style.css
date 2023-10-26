@@ -473,3 +473,17 @@ footer {
     width: 100%;
     grid-gap: 10px;
 }
+
+.contacttxt{
+    position: relative;
+    color: black;
+    top: -110px;
+    font-size: larger;
+}
+
+.contacttxt2 {
+    position: relative;
+    color: rgb(255, 255, 255);
+    top: -30px;
+    font-size: larger;
+}
