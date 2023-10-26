@@ -413,21 +413,27 @@ footer {
 
 .projectbase{
     position: relative;
-    color:white;
+    color:rgb(0, 0, 0);
     background: rgb(0, 0, 0);
-    top: 375px;
-    right: 350px;
-    height: 45px;
+    border-style: solid;
+    border-color: rgb(93, 93, 93);
+    border-width: 10px;
+    top: 360px;
+    right: 380px;
+    height: 60px;
     width: 200px;
 }
 
 .projectbase2{
     position: relative;
-    color: white;
+    color: rgb(0, 0, 0);
     background: rgb(0, 0, 0);
-    top: -20px;
-    right: 350px;
-    height: 45px;
+    border-style: solid;
+    border-color: rgb(93, 93, 93);
+    border-width: 10px;
+    top: -38px;
+    right: 380px;
+    height: 60px;
     width: 200px;
 }
 
