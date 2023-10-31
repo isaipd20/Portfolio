@@ -1,0 +1,17 @@
+#Future plans
+
+Version 1:
+JavaScript:
+-Main page: Add animation to towers, Add animation to name and background.
+-About page: Add more information, Add animation to background and frames.
+-Projects page: Add animation and fuctionality to display more projects, Add more images and designs.
+-Contact page: Add animation to ships and make them more appealing.
+
+Version 2:
+-Make all pages functional for different displays and screen sizes.
+-Improve designs.
+-Add more information.
+-Create functions to make it appealing
+
+Version 3:
+???
