@@ -23,3 +23,4 @@ Figma: [link](https://www.figma.com/proto/lAEHoUop2LkepO2xhVPni6/Untitled?node-i
 - Html and CSS added.
 Future plans:
 - Add Javascript to improve user experience.
+- Add different screen size view. 
